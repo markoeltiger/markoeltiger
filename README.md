@@ -1,5 +1,6 @@
 <p align="left">Hi, I'm Mark Seif.<br>Software Engineer and entrepreneur who loves to innovate new products.</p>
-
+Maintaining https://github.com/detekt/detekt.
+Converting https://github.com/AppIntro/AppIntro to compose.
 ###
 
 <div align="left">
