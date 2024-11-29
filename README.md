@@ -1,6 +1,12 @@
 <p align="left">Hi, I'm Mark Seif.<br>Software Engineer and entrepreneur who loves to innovate new products.</p>
-Maintaining https://github.com/detekt/detekt.
-Converting https://github.com/AppIntro/AppIntro to compose.
+
+- 🌱 I’m currently Working @ Orange
+- 👌 Maintaining https://github.com/detekt/detekt.<be>
+- 👌 Converting https://github.com/AppIntro/AppIntro to compose.
+- 💬 Ask me about any topic related to android<br>
+- ⚡ have fun with coding
+
+
 ###
 
 <div align="left">
