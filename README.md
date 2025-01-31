@@ -6,7 +6,7 @@
 - 💬 Ask me about any topic related to android<br>
 - ⚡ have fun with coding
 
-[![@markoeltiger's Holopin board](https://holopin.io/api/user/board?user=markoeltiger)](https://holopin.io/@markoeltiger)
+[![An image of @markoeltiger's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/markoeltiger)](https://holopin.io/@markoeltiger)
 ###
 
 <div align="left">
